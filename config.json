@@ -1,11 +1,11 @@
-[
-  {
-    "vm_enabled": false,
+{
+  "vm": {
+    "enabled": false,
     "expires_at": "2026-12-31T23:59:59+08:00",
     "message": "Error Unknown"
   },
-  {
-    "android_process_enabled": true,
+  "anp": {
+    "enabled": true,
     "expires_at": "2026-12-31T23:59:59+08:00",
     "message": "Error Unknown"
   }
